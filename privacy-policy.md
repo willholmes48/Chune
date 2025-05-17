@@ -1,13 +1,13 @@
-# MoodPlayer Privacy Policy  
+# Chune Privacy Policy  
 *Effective date: 17 May 2025*
 
-MoodPlayer ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy describes how your personal information is collected, used, and shared when you use the MoodPlayer app.
+Chune ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy describes how your personal information is collected, used, and shared when you use the Chune app.
 
 ---
 
 ## 1. What We Collect
 
-We collect the following information when you use MoodPlayer:
+We collect the following information when you use Chune:
 
 - **Apple Music Data**: We request access to your Apple Music playback, library, and listening history to analyse your musical mood and generate MoodStations.
 - **Firebase Data**: We store a unique identifier (`userUid`) and basic usage metadata in Firebase Firestore and use Firebase Authentication for identity management.
@@ -32,7 +32,7 @@ We **do not** store or process your full music library, playback activity, or id
 
 ## 3. Third-Party Services
 
-MoodPlayer uses the following third-party services:
+Chune uses the following third-party services:
 
 - **Firebase (Google)** – for authentication, analytics, and cloud storage  
 - **RevenueCat** – for managing and verifying subscriptions  
